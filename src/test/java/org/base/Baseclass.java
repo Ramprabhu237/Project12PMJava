@@ -93,6 +93,10 @@ public class Baseclass {
 			{
 				driver.quit();
 			}
+	     public static void close()
+	     {
+		     driver.close();
+	     }
 			
 			
 }
