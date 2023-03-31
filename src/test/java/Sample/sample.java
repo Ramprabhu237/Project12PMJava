@@ -27,5 +27,6 @@ public class sample extends Baseclass {
 			WebElement e = driver.findElement(By.name("login"));
 			takescreenshot(e);
 			System.out.println("Done");
+			System.out.println("Done done");
 	}
 }
